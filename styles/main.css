@@ -1,0 +1,22 @@
+﻿body {
+  background:powderblue;
+   font-family:arial;
+}
+
+h1, h2, li {
+  color: #555
+}
+p {
+  background: #666;
+color: white;
+padding:10px;
+}
+.secondary {
+background: none;
+color: #777;
+}
+
+#nav {
+background: red;
+color: white;
+}
