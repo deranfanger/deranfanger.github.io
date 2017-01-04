@@ -1,7 +1,13 @@
 ﻿body {
 	margin: 0;
   background:powderblue;
-   font-family:arial;
+   font-family:arialial;
+}
+
+header {
+	background: #999;
+	color: white;
+	padding: 15px 15px 0 15px;
 }
 
 h1, h2, li {
@@ -20,4 +26,10 @@ color: #777;
 #nav {
 background: red;
 color: white;
+}
+
+nav ul li {
+	display:inline-block;
+	list-style-type-none;
+	padding: 5px 15px 5px 15px;
 }
